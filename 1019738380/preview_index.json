@@ -1,0 +1,727 @@
+{
+  "qq_number": "3785355498",
+  "group_number": "1019738380",
+  "updated_at": "2026-04-23T15:52:36.184558",
+  "skins": [
+    {
+      "name": "鱼の永310",
+      "file": "鱼の永310.bdi",
+      "thumb": "鱼の永310.bdi_py_26_default_thumb.png",
+      "full": "鱼の永310.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永319",
+      "file": "鱼の永319.bdi",
+      "thumb": "鱼の永319.bdi_py_26_default_thumb.png",
+      "full": "鱼の永319.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永323",
+      "file": "鱼の永323.bdi",
+      "thumb": "鱼の永323.bdi_py_26_default_thumb.png",
+      "full": "鱼の永323.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永311",
+      "file": "鱼の永311.bdi",
+      "thumb": "鱼の永311.bdi_py_26_default_thumb.png",
+      "full": "鱼の永311.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永302",
+      "file": "鱼の永302.bdi",
+      "thumb": "鱼の永302.bdi_py_26_default_thumb.png",
+      "full": "鱼の永302.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永316",
+      "file": "鱼の永316.bdi",
+      "thumb": "鱼の永316.bdi_py_26_default_thumb.png",
+      "full": "鱼の永316.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永269",
+      "file": "鱼の永269.bdi",
+      "thumb": "鱼の永269.bdi_py_26_default_thumb.png",
+      "full": "鱼の永269.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永305",
+      "file": "鱼の永305.bdi",
+      "thumb": "鱼の永305.bdi_py_26_default_thumb.png",
+      "full": "鱼の永305.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永283",
+      "file": "鱼の永283.bdi",
+      "thumb": "鱼の永283.bdi_py_26_default_thumb.png",
+      "full": "鱼の永283.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永300",
+      "file": "鱼の永300.bdi",
+      "thumb": "鱼の永300.bdi_py_26_default_thumb.png",
+      "full": "鱼の永300.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永284",
+      "file": "鱼の永284.bdi",
+      "thumb": "鱼の永284.bdi_py_26_default_thumb.png",
+      "full": "鱼の永284.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永303",
+      "file": "鱼の永303.bdi",
+      "thumb": "鱼の永303.bdi_py_26_default_thumb.png",
+      "full": "鱼の永303.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永270",
+      "file": "鱼の永270.bdi",
+      "thumb": "鱼の永270.bdi_py_26_default_thumb.png",
+      "full": "鱼の永270.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永298",
+      "file": "鱼の永298.bdi",
+      "thumb": "鱼の永298.bdi_py_26_default_thumb.png",
+      "full": "鱼の永298.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永287",
+      "file": "鱼の永287.bdi",
+      "thumb": "鱼の永287.bdi_py_26_default_thumb.png",
+      "full": "鱼の永287.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永321",
+      "file": "鱼の永321.bdi",
+      "thumb": "鱼の永321.bdi_py_26_default_thumb.png",
+      "full": "鱼の永321.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永318",
+      "file": "鱼の永318.bdi",
+      "thumb": "鱼の永318.bdi_py_26_default_thumb.png",
+      "full": "鱼の永318.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永275",
+      "file": "鱼の永275.bdi",
+      "thumb": "鱼の永275.bdi_py_26_default_thumb.png",
+      "full": "鱼の永275.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永276",
+      "file": "鱼の永276.bdi",
+      "thumb": "鱼の永276.bdi_py_26_default_thumb.png",
+      "full": "鱼の永276.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永296",
+      "file": "鱼の永296.bdi",
+      "thumb": "鱼の永296.bdi_py_26_default_thumb.png",
+      "full": "鱼の永296.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永272",
+      "file": "鱼の永272.bdi",
+      "thumb": "鱼の永272.bdi_py_26_default_thumb.png",
+      "full": "鱼の永272.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永295",
+      "file": "鱼の永295.bdi",
+      "thumb": "鱼の永295.bdi_py_26_default_thumb.png",
+      "full": "鱼の永295.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永273",
+      "file": "鱼の永273.bdi",
+      "thumb": "鱼の永273.bdi_py_26_default_thumb.png",
+      "full": "鱼の永273.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永277",
+      "file": "鱼の永277.bdi",
+      "thumb": "鱼の永277.bdi_py_26_default_thumb.png",
+      "full": "鱼の永277.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永326",
+      "file": "鱼の永326.bdi",
+      "thumb": "鱼の永326.bdi_py_26_default_thumb.png",
+      "full": "鱼の永326.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永327",
+      "file": "鱼の永327.bdi",
+      "thumb": "鱼の永327.bdi_py_26_default_thumb.png",
+      "full": "鱼の永327.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永279",
+      "file": "鱼の永279.bdi",
+      "thumb": "鱼の永279.bdi_py_26_default_thumb.png",
+      "full": "鱼の永279.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永308",
+      "file": "鱼の永308.bdi",
+      "thumb": "鱼の永308.bdi_py_26_default_thumb.png",
+      "full": "鱼の永308.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永317",
+      "file": "鱼の永317.bdi",
+      "thumb": "鱼の永317.bdi_py_26_default_thumb.png",
+      "full": "鱼の永317.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永282",
+      "file": "鱼の永282.bdi",
+      "thumb": "鱼の永282.bdi_py_26_default_thumb.png",
+      "full": "鱼の永282.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永313",
+      "file": "鱼の永313.bdi",
+      "thumb": "鱼の永313.bdi_py_26_default_thumb.png",
+      "full": "鱼の永313.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永307",
+      "file": "鱼の永307.bdi",
+      "thumb": "鱼の永307.bdi_py_26_default_thumb.png",
+      "full": "鱼の永307.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永292",
+      "file": "鱼の永292.bdi",
+      "thumb": "鱼の永292.bdi_py_26_default_thumb.png",
+      "full": "鱼の永292.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永238",
+      "file": "鱼の永328.bdi",
+      "thumb": "鱼の永328.bdi_py_26_default_thumb.png",
+      "full": "鱼の永328.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永297",
+      "file": "鱼の永297.bdi",
+      "thumb": "鱼の永297.bdi_py_26_default_thumb.png",
+      "full": "鱼の永297.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永322",
+      "file": "鱼の永322.bdi",
+      "thumb": "鱼の永322.bdi_py_26_default_thumb.png",
+      "full": "鱼の永322.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永320",
+      "file": "鱼の永320.bdi",
+      "thumb": "鱼の永320.bdi_py_26_default_thumb.png",
+      "full": "鱼の永320.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永286",
+      "file": "鱼の永286.bdi",
+      "thumb": "鱼の永286.bdi_py_26_default_thumb.png",
+      "full": "鱼の永286.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永271",
+      "file": "鱼の永271.bdi",
+      "thumb": "鱼の永271.bdi_py_26_default_thumb.png",
+      "full": "鱼の永271.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永301",
+      "file": "鱼の永301.bdi",
+      "thumb": "鱼の永301.bdi_py_26_default_thumb.png",
+      "full": "鱼の永301.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永309",
+      "file": "鱼の永309.bdi",
+      "thumb": "鱼の永309.bdi_py_26_default_thumb.png",
+      "full": "鱼の永309.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永304",
+      "file": "鱼の永304.bdi",
+      "thumb": "鱼の永304.bdi_py_26_default_thumb.png",
+      "full": "鱼の永304.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永281",
+      "file": "鱼の永281.bdi",
+      "thumb": "鱼の永281.bdi_py_26_default_thumb.png",
+      "full": "鱼の永281.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永312",
+      "file": "鱼の永312.bdi",
+      "thumb": "鱼の永312.bdi_py_26_default_thumb.png",
+      "full": "鱼の永312.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永314",
+      "file": "鱼の永314.bdi",
+      "thumb": "鱼の永314.bdi_py_26_default_thumb.png",
+      "full": "鱼の永314.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永324",
+      "file": "鱼の永324.bdi",
+      "thumb": "鱼の永324.bdi_py_26_default_thumb.png",
+      "full": "鱼の永324.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永289",
+      "file": "鱼の永289.bdi",
+      "thumb": "鱼の永289.bdi_py_26_default_thumb.png",
+      "full": "鱼の永289.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永294",
+      "file": "鱼の永294.bdi",
+      "thumb": "鱼の永294.bdi_py_26_default_thumb.png",
+      "full": "鱼の永294.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永325",
+      "file": "鱼の永325.bdi",
+      "thumb": "鱼の永325.bdi_py_26_default_thumb.png",
+      "full": "鱼の永325.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永288",
+      "file": "鱼の永288.bdi",
+      "thumb": "鱼の永288.bdi_py_26_default_thumb.png",
+      "full": "鱼の永288.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永315",
+      "file": "鱼の永315.bdi",
+      "thumb": "鱼の永315.bdi_py_26_default_thumb.png",
+      "full": "鱼の永315.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永291",
+      "file": "鱼の永291.bdi",
+      "thumb": "鱼の永291.bdi_py_26_default_thumb.png",
+      "full": "鱼の永291.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永274",
+      "file": "鱼の永274.bdi",
+      "thumb": "鱼の永274.bdi_py_26_default_thumb.png",
+      "full": "鱼の永274.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永280",
+      "file": "鱼の永280.bdi",
+      "thumb": "鱼の永280.bdi_py_26_default_thumb.png",
+      "full": "鱼の永280.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永293",
+      "file": "鱼の永293.bdi",
+      "thumb": "鱼の永293.bdi_py_26_default_thumb.png",
+      "full": "鱼の永293.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永278",
+      "file": "鱼の永278.bdi",
+      "thumb": "鱼の永278.bdi_py_26_default_thumb.png",
+      "full": "鱼の永278.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永306",
+      "file": "鱼の永306.bdi",
+      "thumb": "鱼の永306.bdi_py_26_default_thumb.png",
+      "full": "鱼の永306.bdi_py_26_default.png"
+    },
+    {
+      "name": "๑˚小鱼ෆの永268",
+      "file": "鱼の永268.bdi",
+      "thumb": "鱼の永268.bdi_py_26_default_thumb.png",
+      "full": "鱼の永268.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永290",
+      "file": "鱼の永290.bdi",
+      "thumb": "鱼の永290.bdi_py_26_default_thumb.png",
+      "full": "鱼の永290.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永299",
+      "file": "鱼の永299.bdi",
+      "thumb": "鱼の永299.bdi_py_26_default_thumb.png",
+      "full": "鱼の永299.bdi_py_26_default.png"
+    },
+    {
+      "name": "鱼の永320",
+      "file": "鱼の永320.bds",
+      "thumb": "鱼の永320.bds_py_26_default_thumb.png",
+      "full": "鱼の永320.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永284",
+      "file": "鱼の永284.bds",
+      "thumb": "鱼の永284.bds_py_26_default_thumb.png",
+      "full": "鱼の永284.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永287",
+      "file": "鱼の永287.bds",
+      "thumb": "鱼の永287.bds_py_26_default_thumb.png",
+      "full": "鱼の永287.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永323",
+      "file": "鱼の永323.bds",
+      "thumb": "鱼の永323.bds_py_26_default_thumb.png",
+      "full": "鱼の永323.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永298",
+      "file": "鱼の永298.bds",
+      "thumb": "鱼の永298.bds_py_26_default_thumb.png",
+      "full": "鱼の永298.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永274",
+      "file": "鱼の永274.bds",
+      "thumb": "鱼の永274.bds_py_26_default_thumb.png",
+      "full": "鱼の永274.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永291",
+      "file": "鱼の永291.bds",
+      "thumb": "鱼の永291.bds_py_26_default_thumb.png",
+      "full": "鱼の永291.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永304",
+      "file": "鱼の永304.bds",
+      "thumb": "鱼の永304.bds_py_26_default_thumb.png",
+      "full": "鱼の永304.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永306",
+      "file": "鱼の永306.bds",
+      "thumb": "鱼の永306.bds_py_26_default_thumb.png",
+      "full": "鱼の永306.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永325",
+      "file": "鱼の永325.bds",
+      "thumb": "鱼の永325.bds_py_26_default_thumb.png",
+      "full": "鱼の永325.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永286",
+      "file": "鱼の永286.bds",
+      "thumb": "鱼の永286.bds_py_26_default_thumb.png",
+      "full": "鱼の永286.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永305",
+      "file": "鱼の永305.bds",
+      "thumb": "鱼の永305.bds_py_26_default_thumb.png",
+      "full": "鱼の永305.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永282",
+      "file": "鱼の永282.bds",
+      "thumb": "鱼の永282.bds_py_26_default_thumb.png",
+      "full": "鱼の永282.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永309",
+      "file": "鱼の永309.bds",
+      "thumb": "鱼の永309.bds_py_26_default_thumb.png",
+      "full": "鱼の永309.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永313",
+      "file": "鱼の永313.bds",
+      "thumb": "鱼の永313.bds_py_26_default_thumb.png",
+      "full": "鱼の永313.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永324",
+      "file": "鱼の永324.bds",
+      "thumb": "鱼の永324.bds_py_26_default_thumb.png",
+      "full": "鱼の永324.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永278",
+      "file": "鱼の永278.bds",
+      "thumb": "鱼の永278.bds_py_26_default_thumb.png",
+      "full": "鱼の永278.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永311",
+      "file": "鱼の永311.bds",
+      "thumb": "鱼の永311.bds_py_26_default_thumb.png",
+      "full": "鱼の永311.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永269",
+      "file": "鱼の永269.bds",
+      "thumb": "鱼の永269.bds_py_26_default_thumb.png",
+      "full": "鱼の永269.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永326",
+      "file": "鱼の永326.bds",
+      "thumb": "鱼の永326.bds_py_26_default_thumb.png",
+      "full": "鱼の永326.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永272",
+      "file": "鱼の永272.bds",
+      "thumb": "鱼の永272.bds_py_26_default_thumb.png",
+      "full": "鱼の永272.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永299",
+      "file": "鱼の永299.bds",
+      "thumb": "鱼の永299.bds_py_26_default_thumb.png",
+      "full": "鱼の永299.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永290",
+      "file": "鱼の永290.bds",
+      "thumb": "鱼の永290.bds_py_26_default_thumb.png",
+      "full": "鱼の永290.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永321",
+      "file": "鱼の永321.bds",
+      "thumb": "鱼の永321.bds_py_26_default_thumb.png",
+      "full": "鱼の永321.bds_py_26_default.png"
+    },
+    {
+      "name": "๑˚小鱼ෆの永268",
+      "file": "鱼の永268.bds",
+      "thumb": "鱼の永268.bds_py_26_default_thumb.png",
+      "full": "鱼の永268.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永300",
+      "file": "鱼の永300.bds",
+      "thumb": "鱼の永300.bds_py_26_default_thumb.png",
+      "full": "鱼の永300.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永310",
+      "file": "鱼の永310.bds",
+      "thumb": "鱼の永310.bds_py_26_default_thumb.png",
+      "full": "鱼の永310.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永281",
+      "file": "鱼の永281.bds",
+      "thumb": "鱼の永281.bds_py_26_default_thumb.png",
+      "full": "鱼の永281.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永271",
+      "file": "鱼の永271.bds",
+      "thumb": "鱼の永271.bds_py_26_default_thumb.png",
+      "full": "鱼の永271.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永277",
+      "file": "鱼の永277.bds",
+      "thumb": "鱼の永277.bds_py_26_default_thumb.png",
+      "full": "鱼の永277.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永315",
+      "file": "鱼の永315.bds",
+      "thumb": "鱼の永315.bds_py_26_default_thumb.png",
+      "full": "鱼の永315.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永292",
+      "file": "鱼の永292.bds",
+      "thumb": "鱼の永292.bds_py_26_default_thumb.png",
+      "full": "鱼の永292.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永280",
+      "file": "鱼の永280.bds",
+      "thumb": "鱼の永280.bds_py_26_default_thumb.png",
+      "full": "鱼の永280.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永302",
+      "file": "鱼の永302.bds",
+      "thumb": "鱼の永302.bds_py_26_default_thumb.png",
+      "full": "鱼の永302.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永289",
+      "file": "鱼の永289.bds",
+      "thumb": "鱼の永289.bds_py_26_default_thumb.png",
+      "full": "鱼の永289.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永312",
+      "file": "鱼の永312.bds",
+      "thumb": "鱼の永312.bds_py_26_default_thumb.png",
+      "full": "鱼の永312.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永283",
+      "file": "鱼の永283.bds",
+      "thumb": "鱼の永283.bds_py_26_default_thumb.png",
+      "full": "鱼の永283.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永295",
+      "file": "鱼の永295.bds",
+      "thumb": "鱼の永295.bds_py_26_default_thumb.png",
+      "full": "鱼の永295.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永317",
+      "file": "鱼の永317.bds",
+      "thumb": "鱼の永317.bds_py_26_default_thumb.png",
+      "full": "鱼の永317.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永294",
+      "file": "鱼の永294.bds",
+      "thumb": "鱼の永294.bds_py_26_default_thumb.png",
+      "full": "鱼の永294.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永296",
+      "file": "鱼の永296.bds",
+      "thumb": "鱼の永296.bds_py_26_default_thumb.png",
+      "full": "鱼の永296.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永314",
+      "file": "鱼の永314.bds",
+      "thumb": "鱼の永314.bds_py_26_default_thumb.png",
+      "full": "鱼の永314.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永318",
+      "file": "鱼の永318.bds",
+      "thumb": "鱼の永318.bds_py_26_default_thumb.png",
+      "full": "鱼の永318.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永316",
+      "file": "鱼の永316.bds",
+      "thumb": "鱼の永316.bds_py_26_default_thumb.png",
+      "full": "鱼の永316.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永279",
+      "file": "鱼の永279.bds",
+      "thumb": "鱼の永279.bds_py_26_default_thumb.png",
+      "full": "鱼の永279.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永308",
+      "file": "鱼の永308.bds",
+      "thumb": "鱼の永308.bds_py_26_default_thumb.png",
+      "full": "鱼の永308.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永275",
+      "file": "鱼の永275.bds",
+      "thumb": "鱼の永275.bds_py_26_default_thumb.png",
+      "full": "鱼の永275.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永307",
+      "file": "鱼の永307.bds",
+      "thumb": "鱼の永307.bds_py_26_default_thumb.png",
+      "full": "鱼の永307.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永319",
+      "file": "鱼の永319.bds",
+      "thumb": "鱼の永319.bds_py_26_default_thumb.png",
+      "full": "鱼の永319.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永303",
+      "file": "鱼の永303.bds",
+      "thumb": "鱼の永303.bds_py_26_default_thumb.png",
+      "full": "鱼の永303.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永273",
+      "file": "鱼の永273.bds",
+      "thumb": "鱼の永273.bds_py_26_default_thumb.png",
+      "full": "鱼の永273.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永238",
+      "file": "鱼の永328.bds",
+      "thumb": "鱼の永328.bds_py_26_default_thumb.png",
+      "full": "鱼の永328.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永288",
+      "file": "鱼の永288.bds",
+      "thumb": "鱼の永288.bds_py_26_default_thumb.png",
+      "full": "鱼の永288.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永293",
+      "file": "鱼の永293.bds",
+      "thumb": "鱼の永293.bds_py_26_default_thumb.png",
+      "full": "鱼の永293.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永327",
+      "file": "鱼の永327.bds",
+      "thumb": "鱼の永327.bds_py_26_default_thumb.png",
+      "full": "鱼の永327.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永276",
+      "file": "鱼の永276.bds",
+      "thumb": "鱼の永276.bds_py_26_default_thumb.png",
+      "full": "鱼の永276.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永322",
+      "file": "鱼の永322.bds",
+      "thumb": "鱼の永322.bds_py_26_default_thumb.png",
+      "full": "鱼の永322.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永297",
+      "file": "鱼の永297.bds",
+      "thumb": "鱼の永297.bds_py_26_default_thumb.png",
+      "full": "鱼の永297.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永270",
+      "file": "鱼の永270.bds",
+      "thumb": "鱼の永270.bds_py_26_default_thumb.png",
+      "full": "鱼の永270.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永301",
+      "file": "鱼の永301.bds",
+      "thumb": "鱼の永301.bds_py_26_default_thumb.png",
+      "full": "鱼の永301.bds_py_26_default.png"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "qq_number": "3785355498",
+  "group_number": "2151038221",
+  "updated_at": "2026-04-23T15:52:35.913835",
+  "skins": [
+    {
+      "name": "亭雨季 鱼の8",
+      "file": "亭雨季鱼の8.bdi",
+      "thumb": "亭雨季鱼の8.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の8.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の13",
+      "file": "亭雨季鱼の13.bdi",
+      "thumb": "亭雨季鱼の13.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の13.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の12",
+      "file": "亭雨季鱼の12.bdi",
+      "thumb": "亭雨季鱼の12.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の12.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の15",
+      "file": "亭雨季鱼の15.bdi",
+      "thumb": "亭雨季鱼の15.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の15.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季bug补偿",
+      "file": "亭雨季bug补偿.bdi",
+      "thumb": "亭雨季bug补偿.bdi_py_26_default_thumb.png",
+      "full": "亭雨季bug补偿.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の9",
+      "file": "亭雨季鱼の9.bdi",
+      "thumb": "亭雨季鱼の9.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の9.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の10",
+      "file": "亭雨季鱼の10.bdi",
+      "thumb": "亭雨季鱼の10.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の10.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季 鱼の7",
+      "file": "亭雨季鱼の7.bdi",
+      "thumb": "亭雨季鱼の7.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の7.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の11",
+      "file": "亭雨季鱼の11.bdi",
+      "thumb": "亭雨季鱼の11.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の11.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の14",
+      "file": "亭雨季鱼の14.bdi",
+      "thumb": "亭雨季鱼の14.bdi_py_26_default_thumb.png",
+      "full": "亭雨季鱼の14.bdi_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の11",
+      "file": "亭雨季鱼の11.bds",
+      "thumb": "亭雨季鱼の11.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の11.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の10",
+      "file": "亭雨季鱼の10.bds",
+      "thumb": "亭雨季鱼の10.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の10.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季bug补偿",
+      "file": "亭雨季bug补偿.bds",
+      "thumb": "亭雨季bug补偿.bds_py_26_default_thumb.png",
+      "full": "亭雨季bug补偿.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季 鱼の7",
+      "file": "亭雨季鱼の7.bds",
+      "thumb": "亭雨季鱼の7.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の7.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の15",
+      "file": "亭雨季鱼の15.bds",
+      "thumb": "亭雨季鱼の15.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の15.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季 鱼の8",
+      "file": "亭雨季鱼の8.bds",
+      "thumb": "亭雨季鱼の8.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の8.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の13",
+      "file": "亭雨季鱼の13.bds",
+      "thumb": "亭雨季鱼の13.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の13.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の14",
+      "file": "亭雨季鱼の14.bds",
+      "thumb": "亭雨季鱼の14.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の14.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の12",
+      "file": "亭雨季鱼の12.bds",
+      "thumb": "亭雨季鱼の12.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の12.bds_py_26_default.png"
+    },
+    {
+      "name": "亭雨季鱼の9",
+      "file": "亭雨季鱼の9.bds",
+      "thumb": "亭雨季鱼の9.bds_py_26_default_thumb.png",
+      "full": "亭雨季鱼の9.bds_py_26_default.png"
+    }
+  ]
+}
