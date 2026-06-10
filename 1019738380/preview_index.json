@@ -1,7 +1,7 @@
 {
   "qq_number": "3785355498",
   "group_number": "1019738380",
-  "updated_at": "2026-04-23T15:52:36.184558",
+  "updated_at": "2026-06-10T14:12:49+00:00",
   "skins": [
     {
       "name": "鱼の永310",
@@ -188,12 +188,6 @@
       "file": "鱼の永313.bdi",
       "thumb": "鱼の永313.bdi_py_26_default_thumb.png",
       "full": "鱼の永313.bdi_py_26_default.png"
-    },
-    {
-      "name": "鱼の永307",
-      "file": "鱼の永307.bdi",
-      "thumb": "鱼の永307.bdi_py_26_default_thumb.png",
-      "full": "鱼の永307.bdi_py_26_default.png"
     },
     {
       "name": "鱼の永292",
@@ -722,6 +716,12 @@
       "file": "鱼の永301.bds",
       "thumb": "鱼の永301.bds_py_26_default_thumb.png",
       "full": "鱼の永301.bds_py_26_default.png"
+    },
+    {
+      "name": "鱼の永307",
+      "file": "鱼の永307.bdi",
+      "thumb": "鱼の永307.bdi_py_26_light_thumb.png",
+      "full": "鱼の永307.bdi_py_26_light_thumb.png"
     }
   ]
 }
